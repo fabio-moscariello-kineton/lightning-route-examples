@@ -1,0 +1,6 @@
+{
+  "name": "route-examples",
+  "identifier": "com.kineton.lightning.route-examples",
+  "version": "1.0.0",
+  "icon": "./static/icon.png"
+}
